@@ -40,7 +40,6 @@ I'm a Computer Science Undergraduate passionate about exploring the field of Dat
 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Shivani-781&count_private=true&show_icons=true&hide=issues&icon_color=8ced62&title_color=8ced62&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-&nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shivani-781&layout=compact&count_private=true&show_icons=true&title_color=8ced62&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
