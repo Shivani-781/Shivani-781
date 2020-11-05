@@ -66,5 +66,7 @@ I'm a Computer Science Undergraduate passionate about exploring the field of Dat
 </p>
 
 <br>
+<br>
 
-![Profile views](https://gpvc.arturio.dev/Shivani-781)  - Thank You for Visiting! 😉
+![Profile views](https://gpvc.arturio.dev/Shivani-781)  
+Thank You for Visiting! 😉
