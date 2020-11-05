@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 <br>
 
 
-I'm a Computer Science Undergraduate passionate about exploring the field of Data Science and Artificial Intelligence. I have worked on multiple projects involving technologies like Machine Learning, Natural Language Processing, Computer Vision, Web Development and Mobile App Development. Be it Artificial Intelligence or Adobe Illustrator, I 🖤 them both. 
+I'm a Computer Science Undergraduate passionate about exploring the field of Data Science and Artificial Intelligence. I have worked on multiple projects involving technologies like Machine Learning, Natural Language Processing, Computer Vision, Web Development and Mobile App Development. Be it Artificial Intelligence or Adobe Illustrator, I 🖤 AI.
 
 <br>
 
